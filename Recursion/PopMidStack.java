@@ -31,7 +31,7 @@ public class PopMidStack {
 		s.add(4);
 //		s.add(5);
 //		s.add(23);
-//		Stack<Integer> tmpStack=deleteMid(input);
+
 		deleteMid(s,6);
 		System.out.println("Deleted Stack: " +s);
 
